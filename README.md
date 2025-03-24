@@ -1,4 +1,4 @@
-# Android Wrapper for Streamlit Applications
+# Done using Android Wrapper for Streamlit Applications
 
 This project is a lightweight Android wrapper for running any public [Streamlit](https://streamlit.io) app inside a native Android WebView.
 
